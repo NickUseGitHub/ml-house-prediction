@@ -2,5 +2,5 @@ POST http://localhost:5000/predict HTTP/1.1
 Content-Type: application/json
 
 {
-  "features": [8172, 69, 2,572]
+  "features": [108311, 15, 1, 252]
 }
